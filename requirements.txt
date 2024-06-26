@@ -33,3 +33,4 @@ urllib3
 uvloop
 xattr
 yt-dlp
+anyio>=4.4.0 # not directly required, pinned by Snyk to avoid a vulnerability
